@@ -1,4 +1,6 @@
 # 💫 About Me:
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWNhNTAxZTlpYXFoejBydHAxOGxvcThkYm15dzBjbTFoeGlteWl4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="300"/>
+
 🌱 I’m currently learning<br>
 
 
